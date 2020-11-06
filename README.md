@@ -21,16 +21,16 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aqulasoft/orderkeeper.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/aqulasoft/orderkeeper.svg
 [contributors-url]: https://github.com/aqulasoft/orderkeeper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aqulasoft/orderkeeper.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/aqulasoft/orderkeeper.svg
 [forks-url]: https://github.com/aqulasoft/orderkeeper/network/members
-[stars-shield]: https://img.shields.io/github/stars/aqulasoft/orderkeeper.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/aqulasoft/orderkeeper.svg
 [stars-url]: https://github.com/aqulasoft/orderkeeper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aqulasoft/orderkeeper.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/aqulasoft/orderkeeper.svg
 [issues-url]: https://github.com/aqulasoft/orderkeeper/issues
-[license-shield]: https://img.shields.io/github/license/aqulasoft/orderkeeper.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/aqulasoft/orderkeeper.svg
 [license-url]: https://github.com/aqulasoft/orderkeeper/blob/master/LICENSE.txt
-[telegram-shield]: https://img.shields.io/badge/telegram-aqulasoft-blue.svg?style=flat-square
+[telegram-shield]: https://img.shields.io/badge/telegram-aqulasoft-blue.svg
 [telegram-url]: https://t.me/aqulasoft
 
